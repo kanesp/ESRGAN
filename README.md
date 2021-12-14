@@ -9,3 +9,23 @@ Instrustion on running the script:
 2. Save the folder 'img_align_celeba' to '../../data/'
 4. Run the sript using command 'python3 esrgan.py'
 """
+## Requirements
+```
+
+torch>=0.4.0 
+
+torchvision 
+
+matplotlib 
+
+numpy
+
+scipy
+
+pillow
+
+urllib3
+
+scikit-image
+
+```
