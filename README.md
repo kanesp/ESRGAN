@@ -11,21 +11,12 @@ Instrustion on running the script:
 """
 ## Requirements
 ```
-
 torch>=0.4.0 
-
 torchvision 
-
 matplotlib 
-
 numpy
-
 scipy
-
 pillow
-
 urllib3
-
 scikit-image
-
 ```
